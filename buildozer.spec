@@ -5,12 +5,12 @@ package.domain = org.mytest
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
-requirements = python3,kivy==2.2.1,pyjnius,certifi,urllib3,chardet,idna,requests
+requirements = python3,kivy
 orientation = portrait
 fullscreen = 1
 android.api = 33
 android.minapi = 21
-android.ndk = 23b
+android.ndk = 25b
 android.archs = arm64-v8a
 android.accept_sdk_license = True
 
